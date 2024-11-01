@@ -1,0 +1,6 @@
+--Made By nojotsb on discord and nojo15 on yt
+--configure to your liking
+
+-- Quarter Second Surge Settings
+_G.RunSpeed = 200 -- enter whatever value you want here, 200 is the default
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NojoTSB/Compiledstuff/refs/heads/main/skibidishitler"))()
