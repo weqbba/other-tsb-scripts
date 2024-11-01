@@ -1,0 +1,7 @@
+-- settings dont work!!!
+-- replacing _G with getgenv() in script might work idk
+
+_G.MinosPrimeCrushVerticalPushEnabled = true -- should crush do the thing where it tpes to the sky
+_G.MinosPrimeSpeedBoost = 5 -- the speed boost, if more than 0 can also move while slowed/stunned
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/felixsidzed/veryCoolScripts/main/Minos%20Prime%20TSBG.lua"))()
